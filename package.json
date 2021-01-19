@@ -1,0 +1,12 @@
+{
+  "name": "T",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tailwindcss-cli@latest build -o tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
